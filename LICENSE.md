@@ -1,2 +1,2 @@
 
-Copyright (C) 2021 Daniil
+Copyright (C) 2021 Daniil Chelpanov
